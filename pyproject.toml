@@ -11,6 +11,8 @@ langchain = "^0.1.16"
 accelerate = "^0.29.2"
 bitsandbytes = "^0.43.1"
 transformers = "^4.39.3"
+wikipedia = "^1.4.0"
+numexpr = "^2.10.0"
 
 [tool.poetry.group.dev.dependencies]
 ipdb = "^0.13.13"
